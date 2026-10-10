@@ -1,10 +1,10 @@
-import subprocess
+app subprocess
 import time
 import sys
 import os
 
 # اسم الملف الذي تريد تشغيله وإعادة تشغيله
-script_to_run = "app.py"
+script_to_run = "p.py"
 
 # المدة بالثواني بين كل إعادة تشغيل (5 دقائق * 60 ثانية)
 restart_interval_seconds = 16 * 60
