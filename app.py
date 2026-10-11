@@ -7,7 +7,7 @@ import os
 script_to_run = "p.py"
 
 # المدة بالثواني بين كل إعادة تشغيل (5 دقائق * 60 ثانية)
-restart_interval_seconds = 60 * 60
+restart_interval_seconds = 30 * 60
 
 # متغير لتخزين العملية الجارية
 process = None
